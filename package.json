@@ -1,0 +1,16 @@
+{
+  "name": "tcleungbot",
+  "version": "1.0.0",
+  "description": "this is a bot for tcl!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Len Chan",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "hepburn": "^1.0.0",
+    "node-gimei": "0.0.4",
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
